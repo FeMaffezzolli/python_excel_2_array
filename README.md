@@ -1,2 +1,3 @@
-# python_excel_2_array
-A short script capabe of reading an excel file and generating an txt file with PHP array format.
+# Excel_2_array
+
+A short script capable of reading an excel file and generating a txt file with PHP array format.
